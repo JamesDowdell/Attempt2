@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World, not generic at all.");
         String iAmReNameable = "hi";
         System.out.println(iAmReNameable.length());
+        System.out.println("edit1");
     }
 }
